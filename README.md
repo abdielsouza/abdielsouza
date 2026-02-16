@@ -6,7 +6,7 @@
 
 <div align="center">
   <div>
-    I am a full-stack web developer and also a C++ developer. I'm also a big fan of functional programming languages and I take the most part of my time writing libraries and utilities for projects, despite I have some web projects deployed.
+    I am a software developer focused on multiple areas of development. I'm also a big fan of functional programming languages and I take the most part of my time writing libraries and utilities for projects, despite I have some web projects deployed.
   </div>
 </div>
 
