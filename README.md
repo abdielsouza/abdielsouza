@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.fudzilla.com/media/k2/items/cache/9bc5dee6c7ad2c9899ba81b84da43973_L.jpg"  />
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgnxtK5TtsCCO4zS8HD2g6sBtBV9PwvkZsA&s"  />
 
 ###
 
