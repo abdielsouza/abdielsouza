@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <div>My blog: <a href="https://pensando-em-dados.hashnode.dev">https://pensando-em-dados.hashnode.dev</a></div>
+</div>
+
+###
+
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgnxtK5TtsCCO4zS8HD2g6sBtBV9PwvkZsA&s"  />
 
 ###
